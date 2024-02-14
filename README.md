@@ -1,6 +1,6 @@
 # Welcome to my github!
 
-👋Hello everyone! I'm **Marcin Ligmann**, a **full-stack Developer**
+👋Hello everyone! I'm **Marcin Ligmann**, a **full-stack Developer**.
 You can also find me on [LinkedIn](https://www.linkedin.com/in/marcin-ligmann-b11581209/)
   
 📚When I graduated from high school in 2017, I had one thought, one dream, and one purpose: "I would like to become a programmer". To achieve this, I decided to gain IT knowledge by graduating from the Maritime University of Gdynia with a specialization in "Business IT"🎓. After studies, in pursuit of independence and self-empowerment, I decided to work in a car dealership🚗🏢, which taught me perseverance, detail and not giving up on achieving my goals. Without forgetting my teenage dream, I decided to take a risk and put everything on one card.🃏  

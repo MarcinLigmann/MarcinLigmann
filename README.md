@@ -1,16 +1,24 @@
-### Hi there 👋
+# Welcome to my github!
 
-<!--
-**MarcinLigmann/MarcinLigmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋Hello everyone! I'm **Marcin Ligmann**, a **full-stack Developer**
+You can also find me on [LinkedIn](https://www.linkedin.com/in/marcin-ligmann-b11581209/)
+  
+📚When I graduated from high school in 2017, I had one thought, one dream, and one purpose: "I would like to become a programmer". To achieve this, I decided to gain IT knowledge by graduating from the Maritime University of Gdynia with a specialization in "Business IT"🎓. After studies, in pursuit of independence and self-empowerment, I decided to work in a car dealership🚗🏢, which taught me perseverance, detail and not giving up on achieving my goals. Without forgetting my teenage dream, I decided to take a risk and put everything on one card.🃏  
+  
+🎉I have successfully completed a bootcamp as a full-stack developer where I not only refreshed my knowledge from studies, but also enriched it with new methods, techniques, solutions, and programming languages such as **GIT, JavaScript, React, TypeScript, HTML5, CSS3, Redux, SASS, BEM, Node.js** and **SQL**.  
+  
+I am driven by the desire to develop and become a professional in what I do.  
+  
+👨‍💻 My expertise includes:  
+* HTML/CSS: Crafting visually appealing and intuitive user interfaces.  
+* JavaScript/TypeScript: Implementing dynamic and interactive functionalities.  
+* React: building robust and scalable front-end applications.  
+* Node.js: Developing server-side logic for high-performance applications.  
+  
+⚒️Skils Highlights:  
+* Front-end Developer  
+* Back-end Developer  
+* Responsive design  
+* RESTful API Integration  
+* Git Version Control  
+* Problem-Solving

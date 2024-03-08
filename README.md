@@ -22,3 +22,14 @@ I am driven by the desire to develop and become a professional in what I do.
 * RESTful API Integration  
 * Git Version Control  
 * Problem-Solving
+
+Projects:
+
+Bike Store - landing Page - (DEMO)[https://marcinligmann.github.io/LandingPage/] (CODE)[https://github.com/MarcinLigmann/LandingPage]
+technologies: HTML, CSS, SASS
+
+ToDo Application - Task management app - (DEMO)[https://marcinligmann.github.io/task-management-app/] (CODE)[https://github.com/MarcinLigmann/task-management-app]
+technologies: HTML, CSS, SASS, JavaScript, TypeScript, React, Rest Api
+
+Phone Catalog - full-stack web aplication - (DEMO)[https://pl-fe-sep23-reactivation.github.io/product-catalog/] (CODE)[https://github.com/PL-FE-SEP23-REACTivation]
+technologies: HTML, CSS, SASS, JavaScript, TypeScript, React, Rest Api, Fetch, Node.js, Express, Sequelize, Aglie
